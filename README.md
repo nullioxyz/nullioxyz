@@ -14,8 +14,3 @@ Currently, I work at a dynamic startup, applying my knowledge of **Laravel**, **
 ## 🌐 Contact
 
 - [**LinkedIn**](https://www.linkedin.com/in/rafael-franke-41a0a6ba/)
-
-## 💬 Let's Connect!
-
-If you're interested in collaborating on projects, discussing technology, or just having a chat, feel free to reach out!
-
