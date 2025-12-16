@@ -1,16 +1,8 @@
-# Welcome to My GitHub!
+👋 Hi, I'm Rafael Franke
 
-## 👋 Hello, I'm Rafael Franke!
+Mid–Senior Software Engineer with over 12 years of experience building scalable web applications, primarily with **Laravel** and **PHP**, and solid experience delivering products using **React**. I enjoy working in fast-paced startup environments and contributing to **open source** projects.
 
-With over 10 years of experience in **Laravel** and **PHP**, and solid experience with **React** since 2021, I am always looking for new challenges and opportunities to grow in the world of programming.
+I believe technology is a powerful tool for social impact, supporting a free, accessible, and open internet.
 
-Currently, I work at a dynamic startup, applying my knowledge of **Laravel**, **MySQL** and **React** to create innovative and scalable solutions.
-## 🚀 My Skills
+**Stack:** Laravel & PHP (10+ yrs) · React · MySQL · PostgreSQL
 
-- **Laravel & PHP**: Over 10 years of experience in developing robust and efficient web applications.
-- **React**: Experience since 2021 in building interactive and modern user interfaces.
-- **MySQL & PostgreSQL**: Proficient in relational databases, including design, optimization, and maintenance.
-
-## 🌐 Contact
-
-- [**LinkedIn**](https://www.linkedin.com/in/rafael-franke-41a0a6ba/)
