@@ -6,6 +6,24 @@ I believe technology is a powerful tool for social impact, supporting a free, ac
 
 ## 🚀 Recent Projects
 
+### 🖋️ nullio.nl
+Website developed for theo artist **Nullio**.  
+Built using **Laravel + Inertia.js + React**.
+
+The platform showcases the artist’s work while also implementing a full analytics and tracking ecosystem, including:
+
+- Integration with **Google Analytics** and **Meta tracking**
+- Access mapping and user behavior tracking
+- Most visited pages analysis
+- Visitor insights (countries, new vs returning visitors)
+- Performance and engagement monitoring
+- player
+- streaming
+
+🔗 https://nullio.nl
+
+---
+
 ### 🖋️ solztt.com
 Website developed for the tattoo artist **Solztt**.  
 Built using **Laravel + Inertia.js + React**.
