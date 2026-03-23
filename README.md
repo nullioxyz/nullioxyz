@@ -7,7 +7,7 @@ I believe technology is a powerful tool for social impact, supporting a free, ac
 ## 🚀 Recent Projects
 
 ### 🖋️ nullio.nl
-Website developed for theo artist **Nullio**.  
+Website developed for the singer **Nullio**.  
 Built using **Laravel + Inertia.js + React**.
 
 The platform showcases the artist’s work while also implementing a full analytics and tracking ecosystem, including:
